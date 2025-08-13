@@ -1,17 +1,18 @@
-# Hey there, I'm Gwilym 👋  
+# Hey there, I'm Gwilym 👋
 
 <table>
 <tr>
 <td width="230">
-<img width="200" height="200" alt="hi" src="https://github.com/user-attachments/assets/9e8a8c6d-d3ed-475c-b291-3235708d20c2" />
+  <img width="200" height="200" alt="hi" src="https://github.com/user-attachments/assets/9e8a8c6d-d3ed-475c-b291-3235708d20c2" />
 </td>
 <td>
 
-💡 **Passionate Full-Stack Web Developer** | *Level 5 Diploma in Web Application Development (final results pending)*  
+💡 **Junior Full-Stack Developer** — *Level 5 Diploma in Web Application Development (results pending)*
 
-I build secure, responsive, and user-focused web applications from the ground up — covering everything from **wireframes and database design** to **deployment and optimisation**.  
+I build secure, responsive, and user-focused web apps end-to-end: from **wireframes & database design** to **APIs, testing, deployment, and optimisation**.
 
-My projects combine **functionality, performance, and great user experience**, backed by **rigorous testing** and clean, maintainable code.  
+**Open to:** Junior Full-Stack / Backend (Python/Django) roles • Hybrid/Remote (UK)  
+**Value I bring:** clean, maintainable code; pragmatic problem solving; strong UX sensitivity; production-grade deployments.
 
 </td>
 </tr>
@@ -19,141 +20,130 @@ My projects combine **functionality, performance, and great user experience**, b
 
 ---
 
-## 🔥 Highlights  
-- Developed **4 full-scale projects** including e-commerce, fitness tracking, and interactive games  
-- Skilled in **Django, JavaScript, PostgreSQL**, and modern front-end frameworks  
-- Strong focus on **UI/UX, accessibility, and performance**  
-- Experienced in **Stripe integration, REST APIs, and full CRUD functionality**  
-  
----
+## 🔑 Core Technical Skills
 
-## 🖥 Languages & Frameworks  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+- **Languages & Frameworks:** Python, Django, JavaScript, HTML5, CSS3, Bootstrap  
+- **Databases:** PostgreSQL (relational modelling, migrations, queries)  
+- **APIs & Integrations:** REST API creation/consumption, third-party API integration, Stripe payments (secure checkout, webhooks)  
+- **AI & Performance:** Stockfish AI engine integration with Web Workers for responsive gameplay logic  
+- **Auth & Security:** Django authentication & authorisation, CSRF, password hashing, input validation, environment variables  
+- **Testing & Quality:** manual & automated testing, WCAG accessibility checks, Lighthouse perf/SEO, cross-browser/device QA  
+- **Deployment:** Render, Heroku, GitHub Pages; environment configuration & secrets management  
+- **Tooling & Workflow:** Git/GitHub, VS Code / PyCharm / Cursor, Figma, dbdiagram.io, Draw.io  
+- **Practices:** CRUD apps, responsive UI, componentised templates, documentation, basic CI/CD, Agile-style sprints
 
 ---
 
-## 🔧 Developer Tools  
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Cursor](https://img.shields.io/badge/Cursor_AI-FFD700?style=for-the-badge&logo=OpenAI&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+## 🔥 Highlights
+
+- 💻 **4 complete, production-style projects**: e-commerce, fitness tracker, AI-driven game, static marketing site  
+- 🛠 **End-to-end project ownership** — from UX wireframes to **live deployment** with production hosting  
+- ⚡ Delivered **secure payment flows**, **real-time AI logic**, and **data-driven dashboards**  
+- 🎯 Strong focus on **UI/UX, accessibility (WCAG), and performance optimisation**  
+- 🔐 Applied **security best practices** including CSRF protection, hashed credentials, and secure env handling
 
 ---
 
-## 🎨 Design & Documentation Tools  
-*Used throughout the planning and UX/UI phases of projects.*
+## 🚀 Featured Projects
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) – Wireframing, interface mockups  
-![Coolors](https://img.shields.io/badge/Coolors-1E1E1E?style=for-the-badge&logo=coolors&logoColor=00ffff) – Colour palette creation  
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white) – Flowcharts & process mapping  
-![dbdiagram.io](https://img.shields.io/badge/dbdiagram.io-2D3748?style=for-the-badge&logo=database&logoColor=white) – Database schema design  
-![ASCII](https://img.shields.io/badge/ASCII%20Art-000000?style=for-the-badge&logo=codeforces&logoColor=white) – Terminal-based visual touches  
+### **CNCraft** — Full-Stack E-commerce Platform
+> *Under assessment (awaiting grade)*  
+A polished store for CNC machines & accessories with secure payments and product management.
+<img width="800" height="400" alt="CNCraft banner" src="https://github.com/user-attachments/assets/a0a33da7-cc3b-4812-9119-d71442499136" />
 
----
-
-## ☁ Hosting & Deployment  
-*Production-ready hosting with secure configuration.*
-
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) – Full-stack Django hosting  
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) – Cloud deployment with PostgreSQL  
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white) – Static site hosting  
-
+- **Stack:** Django, PostgreSQL, Stripe, Bootstrap  
+- **What I built:** product catalogue & search, cart & checkout, order history, profile management  
+- **Notes:** persistent cart, secure checkout, environment-based config  
+[🔗 Repo](https://github.com/GBerrow/CNCraft) • [🌐 Live](https://cncraft.onrender.com/)
 
 ---
 
-## 🛠 Key Skills & Capabilities  
+### **Forge Fitness** — Full-Stack Fitness Tracker
+> *Under assessment (awaiting grade)*  
+Track workouts, progression, and activity with visual insights.
+<img width="800" height="400" alt="Forge fitness banner" src="https://github.com/user-attachments/assets/149ae31d-4160-4886-9723-6e30b77bd3d6" />
 
-**Full Project Lifecycle**  
-- Planning, wireframing, and prototyping  
-- Development of both frontend and backend  
-- Deployment to live environments  
-- Ongoing maintenance and updates  
-
-**Web Development**  
-- Full-stack application design & build  
-- CRUD functionality with relational databases  
-- Django forms, authentication, and user management  
-
-**Payments & APIs**  
-- Stripe payment integration (secure checkout)  
-- REST API creation & consumption  
-
-**Data Visualisation**  
-- Chart.js and custom SVGs for insights  
-
-**Testing & QA**  
-- Extensive manual & automated testing  
-- Accessibility checks (WCAG compliance)  
-- Lighthouse performance and SEO testing  
-- Cross-browser & device compatibility  
-
-**Security Practices**  
-- CSRF protection, password hashing, input validation  
-- Secure environment variable handling & deployment  
-
-**UI/UX**  
-- User goal mapping and intuitive navigation  
-- Accessibility and responsive design principles  
+- **Stack:** Django, PostgreSQL, Bootstrap, Chart.js  
+- **What I built:** CRUD for workouts/notes, user profiles, charts for progress, export utilities  
+- **Quality:** accessibility checks and performance tuning via Lighthouse  
+[🔗 Repo](https://github.com/GBerrow/Forge-Fitness) • [🌐 Live](https://forge-fitness-d9cu.onrender.com/)
 
 ---
 
-## 🚀 Featured Projects  
+### **Chess Game (MS2)** — JavaScript Logic & AI
+Interactive chess with an AI opponent.
+<img width="800" height="400" alt="MS2-Banner" src="https://github.com/user-attachments/assets/c4325780-8ba4-472b-8741-5af26f150b0c" />
 
-### **CNCraft** – Full-Stack E-commerce Platform  
-#### Notice - Wesbite currently under assessment and graded
-*My personal favourite - A polished online store for CNC machines and accessories, complete with secure payments and product management.*  
-- Django, PostgreSQL, Stripe, Bootstrap  
-- Full CRUD for products, orders, and profiles  
-- Persistent shopping cart & secure checkout  
-[🔗 View Repo](https://github.com/GBerrow/CNCraft) | [🌐 Live Site](https://cncraft.onrender.com/)  
+- **Stack:** Vanilla JS, Stockfish AI, Web Workers  
+- **What I built:** move validation, AI move logic, captured pieces UI, sound & UX polish  
+[🔗 Repo](https://github.com/GBerrow/MS2) • [🌐 Live](https://gberrow.github.io/MS2/)
 
 ---
 
-### **Forge Fitness** – Full-Stack Fitness Tracker
-#### Notice - Wesbite currently under assessment and graded
-*Track workouts, progression, and activity with visual data insights.*  
-- CRUD functionality, user profile editing, data export  
-- Chart.js visualisation for performance tracking  
-- Django, Bootstrap, PostgreSQL  
-[🔗 View Repo](https://github.com/GBerrow/Forge-Fitness) | [🌐 Live Site](https://forge-fitness-d9cu.onrender.com/)  
+### **MS1 Website** — Static HTML/CSS
+Personal portfolio for John Doe, a Fullstack Developer. Designed to showcase his professional experience, skills, education, and projects.
+<img width="800" height="400" alt="John Doe Banner" src="https://github.com/user-attachments/assets/64c97ebf-7437-4b83-8da5-4cbcee29dca0" />
+
+- **Stack:** HTML, CSS, JavaScript  
+- **Quality:** WCAG-minded structure, SEO basics, responsive layout, darkmode-implementation  
+[🔗 Repo](https://github.com/GBerrow/MS1) • [🌐 Live](https://gberrow.github.io/MS1/)
 
 ---
 
-### **Chess Game (MS2)** – JavaScript Logic & AI  
-*A fully interactive chess game with AI-powered opponent logic.*  
-- Stockfish AI integration with Web Workers for performance  
-- Move validation, sound effects, and custom UI  
-[🔗 View Repo](https://github.com/GBerrow/MS2) | [🌐 Live Game](https://gberrow.github.io/MS2/)  
+## 🛠 Toolbelt (Badges)
 
----
+### Languages & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### **MS1 Website** – Static HTML/CSS  
-*A clean, responsive marketing site showcasing accessibility and mobile-first design.*  
-- HTML, CSS, JavaScript  
-- WCAG accessibility compliance & SEO optimisation  
-[🔗 View Repo](https://github.com/GBerrow/MS1)  
+### Dev & Collaboration
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-FFD700?style=for-the-badge&logo=OpenAI&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+### Design & Planning
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+![Coolors](https://img.shields.io/badge/Coolors-1E1E1E?style=for-the-badge&logo=coolors&logoColor=00ffff) 
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white) 
+![dbdiagram.io](https://img.shields.io/badge/dbdiagram.io-2D3748?style=for-the-badge&logo=database&logoColor=white) 
+![ASCII](https://img.shields.io/badge/ASCII%20Art-000000?style=for-the-badge&logo=codeforces&logoColor=white)
 
-## 📊 GitHub Stats  
-![Gwilym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GBerrow&show_icons=true&theme=dark)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GBerrow&layout=compact&theme=dark)  
+### Hosting & Deployment
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) 
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) 
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📚 Currently Learning  
-- React.js for modern, interactive front-end experiences  
-- Advanced Django class-based views  
-- Unit testing & TDD best practices  
+
+I’m committed to expanding my skills beyond my diploma through **self-directed learning and practical application**.  
+Right now, I’m actively:  
+
+- **Mastering React.js** to build fast, interactive single-page applications with reusable components.  
+- **Diving deeper into Django** with advanced class-based views, DRF patterns, and scalable architecture.  
+- **Practising Unit Testing & TDD** to deliver more reliable, maintainable code.  
+- Exploring **modern web performance optimisation** techniques for faster load times and better SEO.  
+
+> My approach: learn by building — every new concept gets applied to a real mini-project or feature.
 
 ---
 
-## 📫 Connect with Me  
+## 📊 GitHub Stats
+![Gwilym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GBerrow&show_icons=true&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GBerrow&layout=compact&theme=dark)
+
+*Note: My commit history is inconsistent while completing my diploma. This is because I have studied this course while being full-time self-employed — the focus was shipping complete, well-documented projects in solid increments when I had time booked off.*
+
+---
+
+## 📫 Connect with Me
 - 📧 Email: [gwilymberrow2000@gmail.com](mailto:gwilymberrow2000@gmail.com)  
-- 💼 LinkedIn *(Coming soon)*  
+- 💼 LinkedIn: *(coming soon — ask for CV/portfolio in the meantime)*
+

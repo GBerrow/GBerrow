@@ -1,9 +1,21 @@
-# Hi there, I'm Gwilym 👋  
+# Hey there, I'm Gwilym 👋  
+
+<table>
+<tr>
+<td width="230">
+<img width="200" height="200" alt="hi" src="https://github.com/user-attachments/assets/9e8a8c6d-d3ed-475c-b291-3235708d20c2" />
+</td>
+<td>
 
 💡 **Passionate Full-Stack Web Developer** | *Level 5 Diploma in Web Application Development (final results pending)*  
 
-I build secure, responsive, and user-focused web applications from the ground up, covering everything from **wireframes and database design** to **deployment and optimisation**.  
+I build secure, responsive, and user-focused web applications from the ground up — covering everything from **wireframes and database design** to **deployment and optimisation**.  
+
 My projects combine **functionality, performance, and great user experience**, backed by **rigorous testing** and clean, maintainable code.  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -12,6 +24,7 @@ My projects combine **functionality, performance, and great user experience**, b
 - Skilled in **Django, JavaScript, PostgreSQL**, and modern front-end frameworks  
 - Strong focus on **UI/UX, accessibility, and performance**  
 - Experienced in **Stripe integration, REST APIs, and full CRUD functionality**  
+  
 ---
 
 ## 🖥 Languages & Frameworks  

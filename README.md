@@ -7,12 +7,12 @@
 </td>
 <td>
 
-💡 **Junior Full-Stack Developer** — *Level 5 Diploma in Web Application Development (results pending)*
+💡 **Junior Full-Stack Developer** — *Level 5 Diploma in Web Application Development (results pending)*  
 
-I build secure, responsive, and user-focused web apps end-to-end: from **wireframes & database design** to **APIs, testing, deployment, and optimisation**.
+I build secure, responsive, and user-focused applications from the ground up — covering everything from **UX design & front-end interfaces** to **back-end APIs, databases, deployment pipelines, and performance optimisation**. My projects are production-ready, accessible, and rigorously tested.  
 
-**Open to:** Junior Full-Stack / Backend (Python/Django) roles • Hybrid/Remote (UK)  
-**Value I bring:** clean, maintainable code; pragmatic problem solving; strong UX sensitivity; production-grade deployments.
+**Open to:** Junior Full-Stack • Front-End • Back-End (Python/Django, JavaScript/React) • Entry-Level DevOps — Hybrid/Remote (UK)  
+**Value I bring:** Adaptable across the stack, delivering **secure, accessible, and high-performance solutions** with a strong grasp of modern deployment workflows and Agile delivery.  
 
 </td>
 </tr>

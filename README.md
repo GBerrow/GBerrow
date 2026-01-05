@@ -7,11 +7,14 @@
 </td>
 <td>
 
-💡 **Junior Full-Stack Developer** — *Level 5 Diploma in Web Application Development (results pending)*  
+💡 **Full-Stack Developer** - **Distinction (Overall) – Level 5 Diploma in Web Application Development** 
 
-I build secure, responsive, and user-focused applications from the ground up — covering everything from **UX design & front-end interfaces** to **back-end APIs, databases, deployment pipelines, and performance optimisation**. My projects are production-ready, accessible, and rigorously tested.  
+I build **secure, accessible, production-ready web applications** end to end — from UX wireframes and responsive front-end interfaces to back-end APIs, databases, deployment pipelines, and performance optimisation.
 
-**Open to:** Junior Full-Stack • Front-End • Back-End (Python/Django, JavaScript/React) • Entry-Level DevOps — Hybrid/Remote (UK)  
+All projects showcased here have been **graded by industry professionals** and awarded **top marks for code quality, architecture, documentation, and real-world readiness**.
+
+**Open to:** Full-Stack • Front-End • Back-End (Python/Django, JavaScript/React) • Entry-Level DevOps — Hybrid/Remote (UK)  
+
 **Value I bring:** Adaptable across the stack, delivering **secure, accessible, and high-performance solutions** with a strong grasp of modern deployment workflows and Agile delivery.  
 
 </td>
@@ -121,25 +124,11 @@ Personal portfolio for John Doe, a Fullstack Developer. Designed to showcase his
 
 ---
 
-## 📚 Currently Learning  
-
-I’m committed to expanding my skills beyond my diploma through **self-directed learning and practical application**.  
-Right now, I’m actively:  
-
-- **Mastering React.js** to build fast, interactive single-page applications with reusable components.  
-- **Diving deeper into Django** with advanced class-based views, DRF patterns, and scalable architecture.  
-- **Practising Unit Testing & TDD** to deliver more reliable, maintainable code.  
-- Exploring **modern web performance optimisation** techniques for faster load times and better SEO.  
-
-> My approach: learn by building — every new concept gets applied to a real mini-project or feature.
-
----
-
 ## 📊 GitHub Stats
 ![Gwilym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GBerrow&show_icons=true&theme=dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GBerrow&layout=compact&theme=dark)
 
-*Note: My commit history is inconsistent while completing my diploma. This is because I have studied this course while being full-time self-employed — the focus was shipping complete, well-documented projects in solid increments when I had time booked off.*
+*Note: My commit history is inconsistent. This is because I have studied this course while being full-time self-employed — the focus was shipping complete, well-documented projects in solid increments when I had time booked off.*
 
 ---
 

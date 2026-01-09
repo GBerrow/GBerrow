@@ -53,8 +53,80 @@ adapt to any working enviroment.
 
 ## 🚀 Featured Projects
 
-### **CNCraft** — Full-Stack E-commerce Platform
-> *Under assessment (awaiting grade)*  
+### ❗Current Project❗
+
+#### **ThatFridayFeeling** - B2B SaaS platform for digital agencies that enforces clear client sign-off through a versioned approval system.
+
+Digital agencies lose time, money, and trust because client approvals are unclear.
+
+Designs get “mostly approved”, changes are requested informally, and final deliverables are often shipped without a clear, auditable sign-off. When something goes wrong, no one knows which version was actually approved.
+
+ThatFridayFeeling was built to solve this by introducing a **hard approval boundary** — a moment where a specific version of work must be explicitly approved or rejected before it can move forward.
+
+No vague emails.  
+No “we thought this was fine”.  
+No last-minute scope creep.
+
+### 🧩 What ThatFridayFeeling Solves
+
+It creates a controlled workflow where:
+- Agencies submit a specific version of work
+- Clients must **approve or reject** that exact version
+- Every decision is **logged and traceable**
+- Work cannot silently move forward without approval
+
+This turns approval from a vague conversation into a **clear, enforceable system** — protecting both agencies and clients.
+
+The result is:
+- Faster delivery
+- Fewer disputes
+- Clear accountability
+
+## Tech Stack
+
+### 🟢 Current (MVP Implementation)
+
+#### Backend
+- **Django** – Core application framework  
+- **Django REST Framework** – API layer  
+- **SQLite** – Local development database  
+- **Django Admin** – Internal management & moderation  
+
+#### Frontend
+- **Server-rendered Django templates** (initial MVP UI)  
+- *(React SPA planned for post-MVP)*  
+
+---
+
+### 🟡 Planned / Post-MVP
+
+#### Frontend
+- **React**  
+- **TypeScript**  
+- **Vite**  
+- **React Router**  
+- **TanStack Query**  
+- **Tailwind CSS**  
+
+#### Backend
+- **PostgreSQL** – Production database  
+- **Redis** – Caching & background job broker  
+- **Celery** – Asynchronous task processing  
+
+---
+
+### ⚙️ Tooling & Infrastructure
+- **Docker & Docker Compose** – Local development & service orchestration  
+- **GitHub Actions** – CI pipeline  
+- **Playwright** – End-to-end testing  
+- **pytest** – Backend unit & integration testing 
+
+This project is being built as a **production-grade SaaS**, focusing on security, tenancy, permissions, and real-world workflows.
+[🔗 Repo](https://github.com/GBerrow/ThatFridayFeeling)
+
+---
+
+### **CNCraft** — Full-Stack E-commerce Platform  
 A polished store for CNC machines & accessories with secure payments and product management.
 <img width="800" height="400" alt="CNCraft banner" src="https://github.com/user-attachments/assets/a0a33da7-cc3b-4812-9119-d71442499136" />
 
@@ -66,7 +138,6 @@ A polished store for CNC machines & accessories with secure payments and product
 ---
 
 ### **Forge Fitness** — Full-Stack Fitness Tracker
-> *Under assessment (awaiting grade)*  
 Track workouts, progression, and activity with visual insights.
 <img width="800" height="400" alt="Forge fitness banner" src="https://github.com/user-attachments/assets/149ae31d-4160-4886-9723-6e30b77bd3d6" />
 
@@ -132,11 +203,10 @@ Personal portfolio for John Doe, a Fullstack Developer. Designed to showcase his
 ![Gwilym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GBerrow&show_icons=true&theme=dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GBerrow&layout=compact&theme=dark)
 
-*Note: My commit history is inconsistent. This is because I have studied this course while being full-time self-employed — the focus was shipping complete, well-documented projects in solid increments when I had time booked off.*
-
 ---
 
 ## 📫 Connect with Me
 - 📧 Email: [gwilymberrow2000@gmail.com](mailto:gwilymberrow2000@gmail.com)  
-- 💼 LinkedIn: *(coming soon — ask for CV/portfolio in the meantime)*
+- 💼 LinkedIn: www.linkedin.com/in/gwilym-berrow-9ba9b1329
+
 

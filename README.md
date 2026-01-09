@@ -7,15 +7,19 @@
 </td>
 <td>
 
-💡 **Full-Stack Developer** - **Distinction (Overall) – Level 5 Diploma in Web Application Development** 
+**Full-Stack Developer** - **Distinction – Level 5 Diploma in Web Application Development** 
 
-I build **secure, accessible, production-ready web applications** end to end — from UX wireframes and responsive front-end interfaces to back-end APIs, databases, deployment pipelines, and performance optimisation.
+[Verify Certificate](Certificate.pdf)
+
+[Verify Qualification (Gateway / AuthentiQual)](https://authentiqual.com/v/?aq=7313a8f7-72a6-4b5f-b6d0-fbd83c7ff34d)
+
+
+I build **secure, accessible, production-ready web applications** end to end, from UX wireframes and responsive front-end interfaces to back-end APIs, databases, deployment pipelines, and performance optimisation.
 
 All projects showcased here have been **graded by industry professionals** and awarded **top marks for code quality, architecture, documentation, and real-world readiness**.
 
-**Open to:** Full-Stack • Front-End • Back-End (Python/Django, JavaScript/React) • Entry-Level DevOps — Hybrid/Remote (UK)  
-
-**Value I bring:** Adaptable across the stack, delivering **secure, accessible, and high-performance solutions** with a strong grasp of modern deployment workflows and Agile delivery.  
+**Value I bring:** Adaptable across the stack, delivering **secure, accessible, and high-performance solutions** with a strong grasp of modern deployment workflows and Agile delivery. This skillset helps me 
+adapt to any working enviroment.
 
 </td>
 </tr>

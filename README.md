@@ -131,12 +131,6 @@ Personal portfolio site showcasing professional experience, skills, education an
 
 ---
 
-## 📊 GitHub Stats
-![Gwilym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GBerrow&show_icons=true&theme=dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GBerrow&layout=compact&theme=dark)
-
----
-
 ## 📫 Connect with Me
 - 📧 Email: [gwilymberrow2000@gmail.com](mailto:gwilymberrow2000@gmail.com)  
 - 💼 LinkedIn: <https://www.linkedin.com/in/gwilym-berrow-9ba9b1329>

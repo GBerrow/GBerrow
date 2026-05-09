@@ -1,22 +1,27 @@
 # Hey there, I'm Gwilym 👋
 
+I'm a software development graduate and IT professional currently working as a **Service Desk Analyst at phs Group**.
+
 <table>
 <tr>
   <td width="230">
     <img width="200" height="200" alt="Hi, I'm Gwilym" src="https://github.com/user-attachments/assets/9e8a8c6d-d3ed-475c-b291-3235708d20c2" />
   </td>
   <td>
-    <strong> Software Engineer (Full‑Stack)</strong> — Level 5 Diploma in Web Application Development (Distinction)  
+    <strong>Full-Stack Developer & IT Support Professional</strong><br>
+    Level 5 Diploma in Web Application Development<br>
     <a href="Certificate.pdf">Verify Certificate</a> • <a href="https://authentiqual.com/v/?aq=7313a8f7-72a6-4b5f-b6d0-fbd83c7ff34d">Verify Qualification</a>
   </td>
 </tr>
 </table>
 
-I build **secure, accessible, production‑ready software systems** from end to end. From UX wireframes and responsive front‑end interfaces built with **React** to robust **Django** APIs and relational databases like **PostgreSQL**, plus third‑party integrations, authentication, payments, deployment pipelines and performance optimisation.
+I build **secure, accessible, production-ready software systems** from end to end. From UX wireframes and responsive front-end interfaces built with **React**, to robust **Django** APIs, relational databases like **PostgreSQL**, third-party integrations, authentication, payments, deployment pipelines and performance optimisation.
 
-All projects showcased here have been **graded by industry professionals** and awarded **top marks for code quality, architecture, documentation, testing and real‑world readiness**.
+Alongside my software development background, I’m now gaining real-world professional IT experience as a **Service Desk Analyst**, supporting users, troubleshooting technical issues, handling service requests and developing stronger communication, prioritisation and problem-solving skills in a live business environment.
 
-**Value I bring:** Cross‑stack versatility, the ability to design **secure, scalable and high‑performance solutions**, and a strong grasp of modern tooling (Git/GitHub, CI/CD, Agile delivery). I adapt quickly and deliver under real‑world constraints.
+My background combines **software engineering discipline** with practical IT support experience: clean code, testing, documentation, user-focused thinking, ticket handling, troubleshooting and technical communication.
+
+**Value I bring:** Cross-stack versatility, strong troubleshooting ability, clear documentation, user-focused problem solving, and the ability to design **secure, scalable and maintainable solutions** while adapting quickly under real-world constraints.
 
 ---
 
@@ -52,11 +57,14 @@ Git & GitHub, VS Code, PyCharm, Cursor, Figma, dbdiagram.io, Draw.io
 **Engineering Practices**  
 API-driven architecture, CRUD systems, documentation-first development, iterative delivery, Agile-style sprints, bug triage & refactoring
 
+**IT Support & Service Desk**  
+First-line technical support, ticket handling, user troubleshooting, hardware/software issue diagnosis, account and access support, mobile device support, escalation handling, customer-focused communication
+
 ---
 
 ## 🚀 Featured Projects
 
-### ❗Current Project❗
+### Current Project ❗[DISCALIMER]❗- No longer building applications due to work responsibilities.
 
 #### **ThatFridayFeeling** — Multi‑Tenant SaaS for Digital Agencies  
 Agencies often ship “approved” work without a clear versioned sign‑off, leading to delays and disputes. ThatFridayFeeling introduces a **hard approval boundary**: each version must be explicitly approved or rejected, and every decision is logged and traceable. This reduces scope creep, speeds delivery and creates clear accountability.  
